@@ -1,0 +1,7 @@
+make.exe clean PROJ_NAME=${fileDirname} --dry-run --keep-going --print-directory
+make: Entering directory '/c/Users/AHelal/Desktop/CppForEmbedded'
+echo "Cleaning ....."
+rm -f ileDirname/*.exe ileDirname/*.o ileDirname/*.map
+echo "############# Done #############"
+make: Leaving directory '/c/Users/AHelal/Desktop/CppForEmbedded'
+ 

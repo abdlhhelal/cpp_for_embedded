@@ -1,0 +1,332 @@
+make.exe all PROJ_NAME=${fileDirname} --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: *** No rule to make target 'all'.  Stop.
+ 
+# GNU Make 4.3
+# Built for x86_64-pc-msys
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Tue Dec 21 20:02:34 2021
+
+# Variables
+
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# command line
+PROJ_NAME = $fileDirname
+# environment
+SYSTEMDRIVE = C:
+# environment
+LC_ALL = C
+# environment
+USERPROFILE = C:\Users\AHelal
+# environment
+LOCALAPPDATA = C:\Users\AHelal\AppData\Local
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-85ae3305-3293-49d3-b289-9931ce60af86-sock
+# environment
+VSCODE_CWD = C:\Users\AHelal\AppData\Local\Programs\Microsoft VS Code
+# environment
+SYSTEMROOT = C:\Windows
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_13056_SQYZSAPXZDVIWAJY
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+SW_SIM_HYDRA = C:\Program Files\Common Files\SolidWorks Shared\Simulation Worker Agent\
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\AHelal\AppData\Roaming\Code\CachedData\899d46d82c4c95423fb7e10e68eba52050e30ba3
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = /c/Users/AHelal/AppData/Local/Temp
+# default
+.INCLUDE_DIRS = /usr/include /usr/include
+# makefile
+MAKEFLAGS = pqrR -- $(MAKEOVERRIDES)
+# environment
+INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+# environment
+ONEDRIVE = C:\Users\AHelal\OneDrive
+# makefile
+CURDIR := /c/Users/AHelal/Desktop/CppForEmbedded
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+PROGRAMFILES = C:\Program Files
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+!C: = c:\Users\AHelal\Desktop\CppForEmbedded
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 13056
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+*F = $(notdir $*)
+# environment
+SW_SIM_TEMP = C:\ProgramData\SOLIDWORKS\SW_net_sim_temp\
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# makefile (from 'Makefile', line 5)
+PROJ_DIR = $(unixpath)
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# default
+MAKE_HOST := x86_64-pc-msys
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := /bin/sh
+# environment
+HOMEPATH = \Users\AHelal
+# default
+MAKECMDGOALS := all
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\Windows\system32\cmd.exe
+# environment
+WINDIR = C:\Windows
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = /c/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler:/c/ProgramData/Oracle/Java/javapath:/c/Program Files/Common Files/Oracle/Java/javapath:/c/Program Files/Java/jdk-17.0.1/bin:/mingw64/bin:/usr/bin:/c/MinGW/bin:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/Windows/System32/OpenSSH:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/c/Program Files/Git/cmd:/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit:/c/Program Files/MATLAB/R2018b/runtime/win64:/c/Program Files/MATLAB/R2018b/bin:/c/Program Files/TortoiseSVN/bin:/c/Users/AHelal/AppData/Local/Microsoft/WindowsApps:/c/Users/AHelal/AppData/Local/atom/bin:/c/Users/AHelal/AppData/Local/Programs/Microsoft VS Code/bin
+# environment
+ZES_ENABLE_SYSMAN = 1
+# environment
+COMPUTERNAME = AHELAL
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+SW_SIM_MPIT = INTELMPI
+# makefile (from 'Makefile', line 3)
+unixpath = $(subst \,/,$(PROJ_NAME))
+# environment
+PROMPT = $P$G
+# environment
+LOGONSERVER = \\AHELAL
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+USERNAME = AHelal
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERDOMAIN = AHELAL
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# makefile
+.DEFAULT_GOAL := build
+# default
+MAKE_VERSION := 4.3
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+MAKEOVERRIDES = ${-*-command-variables-*-}
+# makefile (from 'Makefile', line 11)
+LDFLAGS = -Wl,-Map,$(PROJ_DIR)/$(OUT_FILE_NAME).map,--print-memory-usage
+# environment
+USERDOMAIN_ROAMINGPROFILE = AHELAL
+# environment
+NUMBER_OF_PROCESSORS = 8
+# environment
+PUBLIC = C:\Users\Public
+# automatic
+-*-command-variables-*- := PROJ_NAME=$$$$fileDirname
+# environment
+APPDATA = C:\Users\AHelal\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+HOME = /home/AHelal
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = /c/Users/AHelal/AppData/Local/Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\2e4e9d04f5b3d74c887fac9a48d6d49e-1.63.2-main-sock
+# environment
+TERM = xterm-256color
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# makefile (from 'Makefile', line 7)
+OUT_FILE_NAME = out
+# environment
+SESSIONNAME = Console
+# makefile (from 'Makefile', line 10)
+CXXFLAGS = -fdiagnostics-color=always -Wall -g
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
+# environment
+MIC_LD_LIBRARY_PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+# environment
+PROCESSOR_REVISION = a502
+# makefile (from 'Makefile', line 9)
+CXX = g++
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+# variable set hash-table stats:
+# Load=111/1024=11%, Rehash=0, Collisions=14/138=10%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 2724453351, inode 4222124650708889): 6 files, no impossibilities.
+
+# 6 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2021-12-20 20:12:36.4441536
+#  File has been updated.
+#  Successfully updated.
+
+clean:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 19):
+		@echo "Cleaning ....."
+		@rm -f $(PROJ_DIR)/*.exe $(PROJ_DIR)/*.o $(PROJ_DIR)/*.map
+		@echo "############# Done #############"
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+run:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 26):
+	@$(PROJ_DIR)/$(OUT_FILE_NAME).exe
+
+build:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 15):
+		@echo "Building project at path $(PROJ_DIR)"
+		@$(CXX) $(CXXFLAGS) $(PROJ_DIR)/*.c* -o $(PROJ_DIR)/$(OUT_FILE_NAME).exe $(LDFLAGS)
+		@echo "############# Done #############"
+
+rebuild: clean build
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+.PHONY: build clean rebuild run
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=9/1024=1%, Rehash=0, Collisions=0/25=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 15 / storage = 103 B / avg = 6 B
+# current buf: size = 8162 B / used = 103 B / count = 15 / avg = 6 B
+
+# strcache performance: lookups = 30 / hit rate = 50%
+# hash-table stats:
+# Load=15/8192=0%, Rehash=0, Collisions=0/30=0%
+# Finished Make data base on Tue Dec 21 20:02:34 2021
+
+ 

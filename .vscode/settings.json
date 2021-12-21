@@ -1,0 +1,24 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode"
+   ,"makefile.configurations": [
+        {
+            "name": "Default",
+            "makeArgs": []
+        },
+        {
+            "name": "Print make version",
+            "makeArgs": ["--version"]
+        },
+        {
+            "name": "Default Build Configuration",
+            "makeArgs": ["PROJ_NAME=${fileDirname}"]
+        }
+    ],
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\AHelal\\Desktop\\CppForEmbedded\\ileDirname",
+            "binaryPath": "c:\\Users\\AHelal\\Desktop\\CppForEmbedded\\ileDirname\\out.exe",
+            "binaryArgs": []
+        }
+    ],
+}
